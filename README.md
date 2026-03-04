@@ -126,7 +126,7 @@ src/
 
 ## Author
 
-- **Frontend Mentor** - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- **Frontend Mentor** - [@MhistaFortune](https://www.frontendmentor.io/profile/MhistaFortune)
 
 **Note:** Update with your actual Frontend Mentor username when submitting.
 
